@@ -4,7 +4,7 @@
 
 My name is m0untain and I am programmer. I am from Romania, living on the outskirts of Bucharest currently studying at a highschool in Bucharest.
 
-#Languages I use
+Languages I use
 
 **Backend**
 
