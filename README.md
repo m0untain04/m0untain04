@@ -1,7 +1,5 @@
 👋 Hi there!
 
-[![Discord Presence]([https://pe-promenada.agency/signature/discord/309333602129281027)](https://discord.com/users/309333602129281027)
-
 My name is m0untain and I am Node.js developer. I am from Romania, living on the outskirts of Bucharest.
 
 Languages I use
